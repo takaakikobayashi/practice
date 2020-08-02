@@ -137,6 +137,50 @@ header {
   margin: 0 auto;
   padding: 90px 0;
 }
+.feature-content1 {
+  width: 320px;
+  height: auto;
+  float: left;
+  margin-right: 10px;
+}
+.feature-content1 i {
+  font-size: 60px;
+  margin: 0 auto;
+}
+.feature-content1 b {
+  font-size: 20px;
+  color: #000000;
+  margin: 10px auto;
+}
+.feature-content2 {
+  width: 320px;
+  height: auto;
+  float: left;
+  margin-right: 10px;
+}
+.feature-content2 i {
+  font-size: 60px;
+  margin: 0 auto;
+}
+.feature-content2 b {
+  font-size: 20px;
+  color: #000000;
+  margin: 10px auto;
+}
+.feature-content3 i {
+  font-size: 60px;
+  margin: 0 auto;
+}
+.feature-content3 b {
+  font-size: 20px;
+  color: #000000;
+  margin: 10px auto;
+}
+.feature-content3 {
+  width: 320px;
+  height: auto;
+  float: left;
+}
 .feature-top {
   text-align: center;
   font-size: 32px;
@@ -164,11 +208,46 @@ header {
   margin: 0 auto;
   padding: 90px 0;
 }
+.profile-content1 {
+  width: 512px;
+  height: 250px;
+  float: left;
+}
+.profile-img {
+  width: 250px;
+  height: 250px;
+  background-image: url(img/my-icon.jpg);
+  background-size: 250px 250px;
+  background-position: center;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+.profile-content2 {
+  width: 512px;
+  float: left;
+}
 .profile-text {
   text-align: center;
   font-size: 16px;
   color: #000000;
   margin: 30px auto;
+}
+.profile-text1 {
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+.profile-text2 {
+  font-size: 16px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+.profile-text3 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+.profile-text4 {
+  font-size: 16px;
+  color: #000000;
 }
 #contact {
   width: 100%;
@@ -177,6 +256,15 @@ header {
   width: 800px;
   margin: 0 auto;
   padding: 90px 0;
+}
+.contact-content-box {
+  margin: 0 auto;
+}
+.contact-content1 {
+  width: 400px;
+}
+.contact-content2 {
+  width: 400px;
 }
 .contact-top {
   text-align: center;
@@ -189,6 +277,55 @@ header {
   font-size: 16px;
   color: #000000;
   margin: 30px auto;
+}
+.contact-content1 {
+  width: 400px;
+  float: left;
+}
+.contact-content2 {
+  width: 400px;
+  float: left;
+}
+.content-box {
+  margin: 0 auto;
+  width: auto;
+}
+.contact-text1 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+.contact-text2 {
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
+.contact-text3 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+.contact-text4 {
+  text-decoration: underline;
+}
+.sns-box {
+  margin: 0 auto;
+  width: 400px;
+}
+.sns {
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+.sns-icon1 {
+  float: left;
+  margin-right: 20px;
+  font-size: 50px;
+}
+.sns-icon2 {
+  float: left;
+  margin-right: 20px;
+  font-size: 50px;
+}
+.sns-icon3 {
+  float: left;
+  font-size: 50px;
 }
 .portfolio-top::after {
   content: "";
