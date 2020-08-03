@@ -143,6 +143,9 @@ header {
   float: left;
   margin-right: 10px;
 }
+.feature-content1 p {
+  text-align: center;
+}
 .feature-content1 i {
   font-size: 60px;
   margin: 0 auto;
@@ -157,6 +160,9 @@ header {
   height: auto;
   float: left;
   margin-right: 10px;
+}
+.feature-content2 p {
+  text-align: center;
 }
 .feature-content2 i {
   font-size: 60px;
@@ -180,6 +186,9 @@ header {
   width: 320px;
   height: auto;
   float: left;
+}
+.feature-content3 p {
+  text-align: center;
 }
 .feature-top {
   text-align: center;
@@ -287,7 +296,7 @@ header {
   float: left;
 }
 .content-box {
-  margin: 0 auto;
+  padding-left: 100px;
   width: auto;
 }
 .contact-text1 {
@@ -306,7 +315,7 @@ header {
   text-decoration: underline;
 }
 .sns-box {
-  margin: 0 auto;
+  padding-left: 100px;
   width: 400px;
 }
 .sns {
@@ -358,6 +367,10 @@ header {
   width: 70px;
   background-color: #EC715F;
   margin: 8px auto 0 auto;
+}
+.strength {
+  text-align: center;
+  margin: 10px auto;
 }
 a {
   text-decoration: none;
